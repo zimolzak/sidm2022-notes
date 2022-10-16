@@ -18,7 +18,26 @@ Rob El-Kareh, Anand Jagannath (now portland VA hospitalist).
 About 11 ppl. Vermont, Japan, med mal company, res edu Childrens
 Natl, Mayo CS/AI, Memphis engineering, Wash State Hosp Assn RN.
 
-## overview
+## Overview
+
+Thinking Fast and Slow. NASEM main framework. Gather, interpret,
+working diagnosis, iterate if not sufficient info collected. *Cf.*
+DEER Taxonomy with access, hx, exam, tests, assessment, referral,
+follow-up.[^deer] Each stage has at least two ways that something can
+go wrong.
+
+[^deer]: Schiff. Diagnosing Diagnosis Errors.
+
+Intuitive: pattern match. "This is obviously shingles." But miss
+things if you latch on, or miss when the dx doesn't fit the pattern.
+What's a trigger to dislodge you and go to system 2?
+
+More of spectrum. "Intuitive" not quite right word.
+
+"Recognition-primed decision making."
+
+
+
 
 ## Group
 
@@ -34,13 +53,3 @@ Natl, Mayo CS/AI, Memphis engineering, Wash State Hosp Assn RN.
 
 ## Wrap up
 
-
-
-
-
-
-
-If you didn't see it in 2 seconds, you generally
-didn't see it[^zwaanprep].
-
-[^zwaanprep]: Zwaan *et al.*, manuscript in prep.
