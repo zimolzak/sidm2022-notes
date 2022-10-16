@@ -1,4 +1,4 @@
-files = Readme.pdf
+files = Readme.pdf yossarian.pdf
 
 .PHONY: all clean
 

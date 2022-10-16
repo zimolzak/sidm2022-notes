@@ -9,14 +9,19 @@ Notes by Andrew Zimolzak, MD, MMSc
 
 # Decision support to improve dx in edu and practice (Oct 16)
 
-Rob El-Kareh, Anand Jagannath (now portland VA hospitalist).
+Rob El-Kareh, Anand Jagannath (now Portland VA hospitalist).
 
 1. There are frameworks
 2. Right tool for right problem
-3. Metrics to assess a DCS intevention.
+3. Metrics to assess a CDS intervention.
 
-About 11 ppl. Vermont, Japan, med mal company, res edu Childrens
-Natl, Mayo CS/AI, Memphis engineering, Wash State Hosp Assn RN.
+About 11 ppl. Vermont, Japan, med mal company, res edu Children's
+Natl, Mayo CS/AI, Memphis engineering.
+
+Wash State Hosp Assn RN (medicaid quality incentive (MQI), close the
+loop with critical values, person who receives, as well as patient,
+what are ranges). Each hosp had to submit back their policies in order
+to get those dollars, etc.
 
 ## Overview
 
@@ -48,9 +53,9 @@ need it?
 **Threshold model** is another (fourth?) framework, test and treat.
 There is a threshold $T_{test}$ and another one $T_{treat}$. See also
 threshold over time[^donn]. Some of art is setting threshold[^pauk].
-Tests can have risks; obviously tretments do also. Those risks can
+Tests can have risks; obviously treatments do also. Those risks can
 affect thresholds. Lot of patient- and provider-specific components
-that afffect thresholds, separate and a part from what's in the EHR.
+that affect thresholds, separate and a part from what's in the EHR.
 
 [^pauk]: Pauker, Kassirer. *NEJM.* 1980.
 
@@ -98,57 +103,93 @@ Not even a CPC?)
 
 ## EHR tools
 
-## Non EHR
+This space is huge: Health IT for diagnosis[^hitdx]. There are EHR
+integrated, and not. Integrated includes these:
 
-## Group
+[^hitdx]: Review. BMJ QS 2013.
 
-## Measurement
+**AI models:** Risk prediction. Nigam Shah et al.: Couple with a
+concrete "what are you going to do based on the model?" Image
+analysis[^image]. VisualDx too, perhaps. Image can: detect,
+characterize, or monitor. Third, phenotyping, including so-called
+"deep phenotyping." Recommender systems.
 
-## Group
+[^image]: Ho *Nat Rev Cancer* 2018 Aug: 18(8):500.
 
-## Wrap up
+**Patient-specific alerts:** More traditional CDSS, rules or ML.
+Popup, "this patient is from a country where Hep B prevalence exceeds
+2%," etc. Order set, button for *open smartSet.* "Screenshot of the
+Global Health Wizard Hepatitis B Best Practice Alert." Common one is
+sepsis alerting.
+
+Effectiveness? In primary care[^pcpcdss]. Good for screening for
+common. Not so much for acute or uncommon. Not as much for
+*non*-physicians. Also only 22 studies met inclusion [^hosprev]. Most
+were popups, 1 email, 3 pager, 2 ehr flag, 2 other. Only 6 from 2016
+to 2021.
+
+[^hosprev]: Ronan CE et al. The impact of clinical decision support systems on
+provider behavior.... *J Hosp Med*.
+
+[^pcpcdss]: Harada T et al. *Int J Environ Res Public Health*. 2021,
+18, 8435.
+
+Need a *broader view of what clinical decision support is*. People
+view popups as synonymous with CDSS. Adam Wright metaphor: guardrails.
+
+**Differential diagnosis generators**. H R Warner, *Meth inf med*
+Iliad. Octo Barnet *Dxplain*. *INTERNIST*. Isabel too. First you have
+to put in the information. Then VisualDx.
+
+esr, hypona, ck, burn, red patches, disphagia, dyspnea. Common: siadh,
+hf, lung ca. Dermatomyositis. One example, anecdote? It was the
+reason. (Counterpoint: what if you went open minded?)
 
 
 
 
-# My aside
+## Non EHR tools
 
-Previously in our scene, "The wound Yossarian saw was in the outside
-of Snowden's thigh, as large and deep as a football, it seemed."
+UpToDate: valuable but how you use it. What makes us pause and go from
+fast to slow? Uncertainty, for one. Don't ignore uncertainties. Want
+it to work.
 
-> But first he hastily drew a tourniquet around Snowden's
-> thigh because he could not think what else to do in those first
-> tumultuous moments when his senses were in turmoil, when he knew he
-> must act competently at once and feared he might go to pieces
-> completely. Snowden watched him steadily, saying nothing. No artery
-> was spurting, but Yossarian pretended to absorb himself entirely into
-> the fashioning of a tourniquet, because applying a tourniquet was
-> something he did know how to do. He worked with simulated skill and
-> composure, feeling Snowden's lack-luster gaze resting upon him.
+UniverseOfCPC.com. Search by sx, topic, final dx (some dx that you are
+considering). Three UMAP components of terms discussed. Pdxpdx.com.
+Can search for a given exam finding if you think you are seeing one.
+Clinical Problem Solvers. grepMed. Type in "weakness" and search
+twitter etc, algs from med ed experts. *Framewoks for Internal
+Medicine,* Andre M Mansoor.
 
-Yossarian spends quite a while saying "There, there," while Snowden
-says, "I'm cold." He spends a few paragraphs and 1000 words taking
-care of the leg wound.
+("first rule out" graphic for chest pain. whiteboard-like graphic that
+reads like powerpoint due to such prevalent abbreviations. And
+new-style illustration-like graphic with pathway, but small text.)
 
-> Snowden shook his head feebly. "I'm cold," he repeated, with eyes as
-> dull and blind as stone. "I'm cold."
 
-> "There, there," said Yossarian, with growing doubt and trepidation.
-> "There, there. In a little while we'll be back on the ground and Doc
-> Daneeka will take care of you."
 
-> But Snowden kept shaking his head and pointed at last, with just the
-> barest movement of his chin, down toward his armpit. Yossarian bent
-> forward to peer and saw a strangely colored stain seeping through
-> the coveralls just above the armhole of Snowden's flak suit.
-> Yossarian felt his heart stop, then pound so violently he found it
-> difficult to breathe. Snowden was wounded inside his flak suit.
-> Yossarian ripped open the snaps of Snowden's flak suit and heard
-> himself scream wildly as Snowden's insides slithered down to the
-> floor in a soggy pile and just kept dripping out. A chunk of flak
-> more than three inches big had shot into his other side just
-> underneath the arm and blasted all the way through, drawing whole
-> mottled quarts of Snowden along with it through the gigantic hole in
-> his ribs it made as it blasted out. Yossarian screamed a second time
-> and squeezed both hands over his eyes. His teeth were chattering in
-> horror. He forced himself to look again.
+
+## Group exercise 2
+
+1. What tools might help
+2. Pros and cons of options
+3. What to do at place of work
+
+Me, maybe?
+
+- ML to *identify* dx error in the first place, far after the fact.
+- anomaly detect, this one doesn't fit. History physical.
+
+
+
+
+## Measurement and wrap up
+
+(Take break, skip group exercise, combine measurement and wrap up.)
+
+
+
+
+
+
+LocalWords:  El Kareh Anand Jagannath ppl mal Schiff klein donn pauk
+LocalWords:  Pauker Kassirer
