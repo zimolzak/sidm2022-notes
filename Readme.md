@@ -59,7 +59,7 @@ that affect thresholds, separate and a part from what's in the EHR.
 
 [^pauk]: Pauker, Kassirer. *NEJM.* 1980.
 
-[^donn]: Donner-Banzhofff. *Ann Fam Med.* 2018.
+[^donn]: Donner-Banzhoff. *Ann Fam Med.* 2018.
 
 Clinical decision support:
 : Provides clinicians, staff, patient, others, with knowledge and
@@ -74,10 +74,7 @@ integrative[^yu]. And finally fully automated.
 
 [^yu]: Yu KH et al. Nat Biomet Eng. 2018;2:719.
 
-
-
-
-## Group
+## Group exercise
 
 Three groups of four. Clinician.
 
@@ -85,7 +82,7 @@ Three groups of four. Clinician.
 2. Why might dx opportunity occur?
 3. Could it happen, why or why not?
 
-Case: sys hf, leg swell, aki, dyspn, pcp increase diuretic, but worse,
+Case: sys hf, leg swell, aki, dyspn, PCP increase diuretic, but worse,
 admitted. Exam = VS "stable", rales, maybe hi JVP. Hi creat and BNP,
 CXR is pulm edema. Working dx: ADHF. Tx: more diuretic.
 
@@ -97,9 +94,6 @@ Not even a CPC?)
 - Labs: creat, was it new? albumin was a chance.
 
 *Situated cognition.*
-
-
-
 
 ## EHR tools
 
@@ -125,7 +119,7 @@ sepsis alerting.
 Effectiveness? In primary care[^pcpcdss]. Good for screening for
 common. Not so much for acute or uncommon. Not as much for
 *non*-physicians. Also only 22 studies met inclusion [^hosprev]. Most
-were popups, 1 email, 3 pager, 2 ehr flag, 2 other. Only 6 from 2016
+were popups, 1 email, 3 pager, 2 EHR flag, 2 other. Only 6 from 2016
 to 2021.
 
 [^hosprev]: Ronan CE et al. The impact of clinical decision support systems on
@@ -145,9 +139,6 @@ esr, hypona, ck, burn, red patches, disphagia, dyspnea. Common: siadh,
 hf, lung ca. Dermatomyositis. One example, anecdote? It was the
 reason. (Counterpoint: what if you went open minded?)
 
-
-
-
 ## Non EHR tools
 
 UpToDate: valuable but how you use it. What makes us pause and go from
@@ -165,31 +156,156 @@ Medicine,* Andre M Mansoor.
 reads like powerpoint due to such prevalent abbreviations. And
 new-style illustration-like graphic with pathway, but small text.)
 
-
-
-
 ## Group exercise 2
 
 1. What tools might help
 2. Pros and cons of options
 3. What to do at place of work
 
-Me, maybe?
+According to me, maybe:
 
 - ML to *identify* dx error in the first place, far after the fact.
 - anomaly detect, this one doesn't fit. History physical.
-
-
-
+- why no trend analysis
+- why no ABG interp
+- why no coag interp
 
 ## Measurement and wrap up
 
 (Take break, skip group exercise, combine measurement and wrap up.)
 
+The question drives the type of evaluation[^scott].
+
+1. do a "needs assessment."
+2. validate the design of CDSS system
+3. validate the structure
+4. usability testing
+5. field function study (can it be real world useful)
+6. lab user effect study
+7. field user effect study
+8. problem impact study
+
+[^scott]: Scott PS, *et al*. *JAMIA* 2019;26:1120.
+
+Choosing outcomes[^osher][^ji]. Five "rights" of CDSS. Acceptance has
+3 parts; benefit has 3 too, including decision change, process change,
+outcome change.
+
+[^osher]: Osheroff JA. *Improving Outcomes*... CRC Press 2012
+
+[^ji]: Ji M et al. *JMIR* 2021;23:e25929.
+
+1. Migraine example[^minen].
+2. should e ddx be early late [^eddx].
+3. They did record review [^ely]. Result 11 versus 18 % dx errors.
+
+[^ely]: Ely JW, Graber MA. Checklist to prevent. *Diagnosis* 2015; 2:163.
+
+[^eddx]: Sibbald M, Monteiro S, et al. Should electronic differential...
+
+[^minen]: Minen MT et al. Migraine diagnosis and treatment.
+*Cephalalgia*. 2016. 36.
+
+- hard to get out of system 1
+- understand problem up front
+- use existing frameworks
+- measure
 
 
 
 
+# Disparities breakout session
+
+## Vadim Dukhanin
+
+Background[^omron]. Patients' perceptions of diagnostic explanations.
+
+Dx Accuracy:
+: explanation of health problem that accurately says what to do next
+and what to expect.
+
+[^omron]: Omron, Newman-Toker. 2018.
+
+1.1 k respondents, 60% patient, 40% partner. 70% disagreed that dx was
+accurate. Relatively nationwide. Top themes:
+
+1. Dx process (listen, ask questions): *perception*
+2. Align with test (got results): *corroborative*
+3. Align with trajectory: *corroborative*
+4. Align with medical knowledge: *corroborative*
+5. Uncertainty around explanation: *perception*
+
+Reasoning types: corroborative, perception-based, general.
+Corroborative is most common, followed by corroborative plus
+perception-based. Those who disagreed often relied on: *perception of
+attitude, other doc opinion, mismatch with symptoms.* Perception can
+also be about: dx process, uncertainty mgt, as well as attitudes. The
+corroborative are about trajectory, test, sx, med knowl, other doc.
+
+## Contribution of Limited English Proficiency to Diagnostic Errors
+
+Jeremiah Lowe, with Joe Grubenhoff. Lower ESI correlates with
+Hispanic[^zook]. With lang barrier, less agency to ask or clarify or
+speak up or describe[^khanbell]. E-trigger to screen for unplanned
+admission within 10 days of ED/UC visit. Also screen for distinct but
+related dx at ED vs hosp discharge. Manual review those with "truly"
+differing dx, using Safer Dx instrument. Results, $N = 3551$ patients
+with e-trigger positive. 800 reviewed, and 172 had dx error.
+Differences among non English preferred: older, race, ethnicity, ER
+rather than UC, medicaid. No diff in: acutity, or correct final dx on
+ED presentation note. Higher age *was* assoc with dx error. More prior
+admissions, was assoc *fewer* errors.
+
+[^khanbell]: Khan 2022; Bell 2022.
+
+[^zook]: Zook 2016
+
+## Influence of Socioeconomic Disparities on the Cancer Diagnostic Pathway
+
+Thomas Ward, Exeter. Health econ group, coll of med and health.
+Deprivation correlates with maybe 5 years less lifef
+expectancy[^phengland]. Cancer survival specifically, and in colon,
+lung, ovarian. The CPRD data source. 22k colon, 23k lung, 3850
+ovarian. Results: Bigger gap colon 41 something versus 50 something
+percent five-year survival. Other cancers may not be big difference.
+Lung cancer much worse survival than the other two. Adjusted model.
+Adjustment makes deprivation a bigger effect for colon; makes it an
+opposite effect for ovarian.
+
+[^phengland]: Public Health England
+
+## Informing Diagnostic Care in LGBTQ+ Communities
+
+Fateha Zannath, JHU School of Nursing. Taharat Sheikh.
+
+## The Association of Race and Ethnicity with Negative Descriptors
+
+My talk
+
+## Prevalence and Causes of Diagnostic Errors among died/icu
+
+Katie Raffel, hospital med, U Colorado. HOMERuN: hosp med
+re-engineering network fo 56 hosps. And UPSIDE, an AHRQ-funded
+subgroup of HOMERuN. Vizient Clinical Data Base identifies adult
+admits that meet CMS def of "medical diagnosis." 526k adults, 27k went
+to ICU or died. Rand sample about 20%, 2k excluded because ident in
+error or comfort care etc, finally 3k in case review pool. Safer Dx
+tool. And DEER taxonomy to eval for dx process faults. Result: 23% of
+those had a diagnostic error. (6 point Likert-style). 19% perm harm,
+23% error led to death. Big process contributors are:
+access/presentation, testing, and assessment. Attributable fraction:
+number one is assessment, followed by testing.
+
+
+
+
+
+
+
+
+# Local words (ignore)
 
 LocalWords:  El Kareh Anand Jagannath ppl mal Schiff klein donn pauk
-LocalWords:  Pauker Kassirer
+LocalWords:  Pauker Kassirer MQI Banzhoff Fam yu KH Biomet sys aki QS
+LocalWords:  dyspn creat pulm Reframe hitdx Nigam VisualDx smartSet
+LocalWords:  Recommender pcpcdss hosprev Ronan Harada Environ
