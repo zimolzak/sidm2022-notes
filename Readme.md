@@ -299,6 +299,65 @@ number one is assessment, followed by testing.
 
 
 
+# Trust and Diagnostic Challenge
+
+Kedar Mate, IHI. Story: grandmother's clinical dx, versus what matters
+most. Get dx right was only part of the job.
+
+
+
+
+# Physics in Medicine
+
+AAMC, scholastic rigor[^aamc09]. If it doesn't fit the algorithm. So
+mandate to improve education, consensus of 12 competencies. PIM
+program hopes to improve dx esp related to educators, schools. 2019
+report[^consensus]. Example from AAMC report, competency for entering
+medical students. *Describe how electrical currents establish magnetic
+fields and how time-varying magnetic fields induce electrical currents
+in materials, such as metals or biological tissue.*
+
+[^aamc09]: Scientific Foundations for Future Physicians. AAMC-HHMI
+report. 2009.
+
+[^consensus]: Olson A et al. Competencies for improving diagnosis: an
+interprofessional framework for education and training in health care.
+*Diagnosis*, vol. 6, no. 4, 2019, pp. 335-341.
+
+Leslie LaConte, PhD. Physics in the pre-clinical medical school
+curriculum. VA Tech Carilion School of Med. Assistant Dean, research.
+
+L Laconte, nancy donaldson, joe redish, brad roth. Toolkit for med
+educators. Limited time, must be viewed as high-yield. Videos? Curate
+existing videos? Ground in Step 1 content outline. Cases with physics
+component but related to physics.
+
+## ideas
+
+- starling
+- capacitance and vent vs electromagnetism, electrical or fluid resistance.
+- radio is light is infrared
+- differential equations: antiviral resistance
+- cancer modeling
+- partial differentials, exponential growth, statistics
+- Books: Fearless Symmetry, Theoretical Minimum, SIAM
+- heat diffusion, mass diffusion
+- vector geometric, vector math
+- dynamical systems, phase space, critical illness, fibrillation, EEG
+- street fighting math, Mississippi river flow, back of envelope
+- splitting spin states as function of $B$ field, Boltzmann population of states.
+
+
+## Cardiovascular-Pulmonary system
+
+Chad Miller, SLU. Brad Roth of Oakland Uni in Rochester MI.
+*Intermediate Physics for Life Sciences.* Weaving things together, see
+Redish[^mathphy].
+
+[^mathphy]: Redish J. Using Math in Physics: Overview. *The Physics
+Teacher* 59, 314 (2021)
+
+See livingphysicsportal.org, by Redish and Nancy Donaldson.
 
 
 
