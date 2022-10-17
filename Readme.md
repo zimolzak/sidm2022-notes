@@ -346,7 +346,31 @@ component but related to physics.
 - dynamical systems, phase space, critical illness, fibrillation, EEG
 - street fighting math, Mississippi river flow, back of envelope
 - splitting spin states as function of $B$ field, Boltzmann population of states.
-
+- aerosol
+- how devices work, bladder scan, why gamma camera so common, positrons annihilate
+- fourier
+- sampling (analog digital)
+- poisson process, decay, events
+- harmonic oscillator
+- orthonormal basis
+- any wave concept, band pass
+- moments: $\mu, \sigma$, kurtosis; and center of mass, moment of inertia.
+- scattering
+- phased array?
+- modulation, your pager, phone
+- protein energetics
+- mass spec, lots of other analytical chem
+- length of spark and its voltage
+- ABG analyzer, cell counter
+- Dirac $\delta$
+- Navier-Stokes
+- P versus NP
+- summation notation, dot product, matrix inversion, eigenvectors
+- how to make a function of the shape you want
+- Taylor series
+- scalar field, gradient. Vector field, curl, divergence.
+- cellular automata for neurons, or just cells
+- nonlinear (everything is), nonmonotonic
 
 ## Cardiovascular-Pulmonary system
 
@@ -354,10 +378,19 @@ Chad Miller, SLU. Brad Roth of Oakland Uni in Rochester MI.
 *Intermediate Physics for Life Sciences.* Weaving things together, see
 Redish[^mathphy].
 
-[^mathphy]: Redish J. Using Math in Physics: Overview. *The Physics
+[^mathphy]: Edward (Joe) Redish. Using Math in Physics: Overview. *The Physics
 Teacher* 59, 314 (2021)
 
 See livingphysicsportal.org, by Redish and Nancy Donaldson.
+
+## Neuroscience etc
+
+VA Tech, Michael Friedlander.
+
+## Cancer
+
+John Deacon.
+
 
 
 
