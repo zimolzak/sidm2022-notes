@@ -1,4 +1,4 @@
-# SIDM2022 Conference (Society to Improve Diagnosis in Medicine)
+f# SIDM2022 Conference (Society to Improve Diagnosis in Medicine)
 
 2022-10-16, Minneapolis.
 
@@ -132,10 +132,10 @@ Need a *broader view of what clinical decision support is*. People
 view popups as synonymous with CDSS. Adam Wright metaphor: guardrails.
 
 **Differential diagnosis generators**. H R Warner, *Meth inf med*
-Iliad. Octo Barnet *Dxplain*. *INTERNIST*. Isabel too. First you have
+Iliad. Octo Barnett *Dxplain*. *INTERNIST*. Isabel too. First you have
 to put in the information. Then VisualDx.
 
-esr, hypona, ck, burn, red patches, disphagia, dyspnea. Common: siadh,
+ESR, hypona, ck, burn, red patches, dysphagia, dyspnea. Common: SIADH,
 hf, lung ca. Dermatomyositis. One example, anecdote? It was the
 reason. (Counterpoint: what if you went open minded?)
 
@@ -149,11 +149,11 @@ UniverseOfCPC.com. Search by sx, topic, final dx (some dx that you are
 considering). Three UMAP components of terms discussed. Pdxpdx.com.
 Can search for a given exam finding if you think you are seeing one.
 Clinical Problem Solvers. grepMed. Type in "weakness" and search
-twitter etc, algs from med ed experts. *Framewoks for Internal
+twitter etc, algs from med ed experts. *Frameworks for Internal
 Medicine,* Andre M Mansoor.
 
 ("first rule out" graphic for chest pain. whiteboard-like graphic that
-reads like powerpoint due to such prevalent abbreviations. And
+reads like PowerPoint due to such prevalent abbreviations. And
 new-style illustration-like graphic with pathway, but small text.)
 
 ## Group exercise 2
@@ -252,7 +252,7 @@ related dx at ED vs hosp discharge. Manual review those with "truly"
 differing dx, using Safer Dx instrument. Results, $N = 3551$ patients
 with e-trigger positive. 800 reviewed, and 172 had dx error.
 Differences among non English preferred: older, race, ethnicity, ER
-rather than UC, medicaid. No diff in: acutity, or correct final dx on
+rather than UC, medicaid. No diff in: acuity, or correct final dx on
 ED presentation note. Higher age *was* assoc with dx error. More prior
 admissions, was assoc *fewer* errors.
 
@@ -263,7 +263,7 @@ admissions, was assoc *fewer* errors.
 ## Influence of Socioeconomic Disparities on the Cancer Diagnostic Pathway
 
 Thomas Ward, Exeter. Health econ group, coll of med and health.
-Deprivation correlates with maybe 5 years less lifef
+Deprivation correlates with maybe 5 years less life
 expectancy[^phengland]. Cancer survival specifically, and in colon,
 lung, ovarian. The CPRD data source. 22k colon, 23k lung, 3850
 ovarian. Results: Bigger gap colon 41 something versus 50 something
@@ -282,10 +282,10 @@ Fateha Zannath, JHU School of Nursing. Taharat Sheikh.
 
 My talk
 
-## Prevalence and Causes of Diagnostic Errors among died/icu
+## Prevalence and Causes of Diagnostic Errors among died/ICU
 
 Katie Raffel, hospital med, U Colorado. HOMERuN: hosp med
-re-engineering network fo 56 hosps. And UPSIDE, an AHRQ-funded
+re-engineering network of 56 hosps. And UPSIDE, an AHRQ-funded
 subgroup of HOMERuN. Vizient Clinical Data Base identifies adult
 admits that meet CMS def of "medical diagnosis." 526k adults, 27k went
 to ICU or died. Rand sample about 20%, 2k excluded because ident in
@@ -327,7 +327,7 @@ interprofessional framework for education and training in health care.
 Leslie LaConte, PhD. Physics in the pre-clinical medical school
 curriculum. VA Tech Carilion School of Med. Assistant Dean, research.
 
-L Laconte, nancy donaldson, joe redish, brad roth. Toolkit for med
+L Laconte, Nancy Donaldson, Joe redish, brad Roth. Toolkit for med
 educators. Limited time, must be viewed as high-yield. Videos? Curate
 existing videos? Ground in Step 1 content outline. Cases with physics
 component but related to physics.
@@ -348,9 +348,9 @@ component but related to physics.
 - splitting spin states as function of $B$ field, Boltzmann population of states.
 - aerosol
 - how devices work, bladder scan, why gamma camera so common, positrons annihilate
-- fourier
+- Fourier
 - sampling (analog digital)
-- poisson process, decay, events
+- Poisson process, decay, events
 - harmonic oscillator
 - orthonormal basis
 - any wave concept, band pass
@@ -394,10 +394,51 @@ John Deacon.
 
 
 
+# Breakout
+
+## Effect of stage of case on ER signout
+
+Roni Matin.
+
+## Q fever
+
+Iowa and Iowa VA. Cattle, sheep, goats, birthing, raw milk. But can be
+hardy & pass downwind. Farmers, meat processing, veterinarians. *C.
+burnetii* lives in phagolysosomes. CXR multilobar, often FUO. Later
+granulomatous hepatitis, culture-neg endocarditis. CDC algorithm is
+hard: couple phases of antigen, serology to start. Found $N=530$ cases
+of Q fever. Dx window started about 78 days before actual diagnosis.
+Where were missed opportunities? Most have $\ge 1$ missed opportunity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Local words (ignore)
 
 LocalWords:  El Kareh Anand Jagannath ppl mal Schiff klein donn pauk
 LocalWords:  Pauker Kassirer MQI Banzhoff Fam yu KH Biomet sys aki QS
 LocalWords:  dyspn creat pulm Reframe hitdx Nigam VisualDx smartSet
-LocalWords:  Recommender pcpcdss hosprev Ronan Harada Environ
+LocalWords:  Recommender pcpcdss hosprev Ronan Harada Environ Octo ji
+LocalWords:  Dxplain hypona SIADH Dermatomyositis UpToDate Pdxpdx JA
+LocalWords:  UniverseOfCPC grepMed algs Mansoor interp coag scott ddx
+LocalWords:  osher Osheroff minen eddx ely JW Sibbald Monteiro Vadim
+LocalWords:  Cephalalgia Dukhanin omron Toker mgt knowl Grubenhoff
+LocalWords:  ESI zook lang khanbell phengland CPRD Fateha Zannath PIM
+LocalWords:  Taharat Raffel HOMERuN hosps Vizient ident eval Kedar
+LocalWords:  aamc interprofessional LaConte pre Carilion Laconte Roni
+LocalWords:  redish energetics nonmonotonic mathphy Friedlander Matin
+LocalWords:  livingphysicsportal signout burnetii phagolysosomes
+LocalWords:  multilobar granulomatous
