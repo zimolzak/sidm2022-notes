@@ -452,13 +452,49 @@ vs 57%, $P=0.5$ in that case, small numbers of stroke. Dr. David Zee
 is highly expert oto-neurologist. Also semi-supervised algorithm,
 that's like 38% versus 19% in ED docs.
 
-## Recognizing Excellence in Diagnosis - Leapfrog'
+## Recognizing Excellence in Diagnosis: Leapfrog
 
 Jean-Luc Tilly and Mark Graber.
 
 ## Safety II, learning from excellence
 
 Rick Roos, Haga Teaching Hospital (Hague, Netherlands).
+
+
+
+
+# Cancer cachexia
+
+Claire Saxton, Richard F. Dunne, Carole Motycka-Mancini, Ann-Marie
+Richard.
+
+
+
+
+# Best of the best
+
+## Record Review & Patient-Reported Dx Concern
+
+Traber Giardina.
+
+## Communicate Dx Uncertainty to Team/Family
+
+
+
+## BayesNet & Dx Delay in Juvenile Idiopathic Arthritis
+
+Mei-Sing Ong.
+
+## Cancer Dx Digital Quality Measures
+
+Me.
+
+## A Code for "Undiagnosed" to Shorten Rare Disease Dx Odyssey
+
+
+
+## Auto Feedback & ER Resident Followup
+
 
 
 
