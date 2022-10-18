@@ -410,6 +410,24 @@ hard: couple phases of antigen, serology to start. Found $N=530$ cases
 of Q fever. Dx window started about 78 days before actual diagnosis.
 Where were missed opportunities? Most have $\ge 1$ missed opportunity.
 
+Claims data and simulation approach.
+
+## Overuse of MRI for posterior circ stroke
+
+San Antonio, Laurel Officer MD, Brooke Army Medical Center.
+
+Exams vs imaging: HINTS+, Dix-Hallpike, CT, MRI.
+
+Acute vestibular syndrome:
+: Sudden continous vertigo lasting over 24 hours, head movement intolderance,
+nausea.
+
+AVS still can be central or peripheral. Result: lots unremarkable.
+Some stenoses ICA basilar, chronic occlusion , vert stenosis. MRI
+yield like 3%. There are some age-indeterminate strokes on MR. Exam
+only in 40%, many had both which is weird. Some documented HINTS
+positive which is not a thing, should be cent/periph. If admit for
+MRI, should be doing CT head too.
 
 
 
