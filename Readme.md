@@ -419,7 +419,7 @@ San Antonio, Laurel Officer MD, Brooke Army Medical Center.
 Exams vs imaging: HINTS+, Dix-Hallpike, CT, MRI.
 
 Acute vestibular syndrome:
-: Sudden continous vertigo lasting over 24 hours, head movement intolderance,
+: Sudden continuous vertigo lasting over 24 hours, head movement intolerance,
 nausea.
 
 AVS still can be central or peripheral. Result: lots unremarkable.
@@ -429,8 +429,36 @@ only in 40%, many had both which is weird. Some documented HINTS
 positive which is not a thing, should be cent/periph. If admit for
 MRI, should be doing CT head too.
 
+## AVERT Trial
 
+Newman-Toker. Remote expert diagnosis, vs in-person ED dx. We need to
+be doing video-oculography. Left posterior canal BPPV, this is a
+no-brainer. Roll them over and send them home. Upbeat torsional
+nystagmus again, but not in Dix-Hallpike position, therefore
+spontaneous and persistent, no wax/wane. Again, obvious, but this time
+it's stroke. Then HINTS plus VOG reveals neuritis, and another reveals
+a stroke. *Methods:* 6 hospital EDs, main outcome is accuracy in 6
+categories. Inclusion: need nystagmus or ataxia, determined in
+standard way by our people systematically. Collected VOG on HINTS plus
+all positional tests ICS Impulse, Natus Inc., Otometrics. And had 1
+week and 1 mo follow up. Screen $N=1200$, consented $204/215$
+eligible. Randomized $M=130$ and about 109 with known diagnoses, 43
+BPPV, 25 neuritis, 14 stroke, 10 medical, 6 migraine, 7 other periph,
+4 other central not stroke not migraine. Adjudication in stages:
+expert interpret VOG in absence of the ED info. *Results:* ED team 18%
+accurate, vs 50% with VOG. Three category is: central, periph, other.
+BPPV the ER is 9% accurate, 70% expert. Neuritis 24 vs 76. Stroke 43%
+vs 57%, $P=0.5$ in that case, small numbers of stroke. Dr. David Zee
+is highly expert oto-neurologist. Also semi-supervised algorithm,
+that's like 38% versus 19% in ED docs.
 
+## Recognizing Excellence in Diagnosis - Leapfrog'
+
+Jean-Luc Tilly and Mark Graber.
+
+## Safety II, learning from excellence
+
+Rick Roos, Haga Teaching Hospital (Hague, Netherlands).
 
 
 
@@ -453,10 +481,11 @@ LocalWords:  Recommender pcpcdss hosprev Ronan Harada Environ Octo ji
 LocalWords:  Dxplain hypona SIADH Dermatomyositis UpToDate Pdxpdx JA
 LocalWords:  UniverseOfCPC grepMed algs Mansoor interp coag scott ddx
 LocalWords:  osher Osheroff minen eddx ely JW Sibbald Monteiro Vadim
-LocalWords:  Cephalalgia Dukhanin omron Toker mgt knowl Grubenhoff
+LocalWords:  Cephalalgia Dukhanin omron Toker mgt knowl Grubenhoff ge
 LocalWords:  ESI zook lang khanbell phengland CPRD Fateha Zannath PIM
 LocalWords:  Taharat Raffel HOMERuN hosps Vizient ident eval Kedar
 LocalWords:  aamc interprofessional LaConte pre Carilion Laconte Roni
 LocalWords:  redish energetics nonmonotonic mathphy Friedlander Matin
-LocalWords:  livingphysicsportal signout burnetii phagolysosomes
-LocalWords:  multilobar granulomatous
+LocalWords:  livingphysicsportal signout burnetii phagolysosomes circ
+LocalWords:  multilobar granulomatous Hallpike AVS periph oculography
+LocalWords:  brainer VOG Natus Otometrics Zee oto Luc Tilly Roos Haga
