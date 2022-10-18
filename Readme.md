@@ -475,15 +475,42 @@ Richard.
 
 ## Record Review & Patient-Reported Dx Concern
 
-Traber Giardina.
+Traber Giardina. Open access to med records: patients eval their note
+for a visit. Enhance reporting of concerns? Unplanned vis and 14 d
+return algorithm, $N=486$, and a proportion filled out instrument, 51
+diagnostic errors. *Safer Dx Patient* is the name of tool they filled
+out. Record reviews, 20 errors (8 + 12)? Patient may have concern and
+reviewer did not find an error. Sometimes evolution of a diagnosis.
+Found in "disagree" cases: not order testing, not order fu test and pt
+didn't know. Agree cases $n=8$, found: persistent sx, bias and doc
+attrib sx to factors, doc stopped investigating, etc. *Conclusion:*
+Patients' concerns not adequately captured.
 
 ## Communicate Dx Uncertainty to Team/Family
 
-
+Ursula Nawab, CHoP. Nine-month study, goal improve communication of
+DU, as defined by Singh.
 
 ## BayesNet & Dx Delay in Juvenile Idiopathic Arthritis
 
-Mei-Sing Ong.
+Mei-Sing Ong. Monitor the dx process. Repurpose clinical data. Learn
+from clinical data. Common patterns of journey and delay. In network,
+dx *A* correlates with dx *B*. "A network is the language of complex
+systems." CARRA registry, 10k JIA, 100 sites. Delay is bad because of
+joint damage, because people who wait 12 months for a dx have more
+risk of damage, instead of getting on biologics early. Mean dx
+interval here was 8.3 months. Study subset was BCH, one site only.
+Network and network cluster. Found enthesis related cluster also had
+LBP, joint stiffness, sacroiliitis, Lyme. Network metric *betweenness
+centrality* is how much bridging does a node do between others. Those
+play key role in dx journey. Osteochondrosis and Anxiety are two with
+high betweenness centrality. Osteochondrosisis considered common, prob
+a misdx? Themes elicited from parents: kids can't, growing pains, kids
+get hurt, faking, etc. Also long COVID comorb network, high
+eigenvector centrality means it's connected to many other high-scoring
+nodes. Includes: pneumonia, resp failure, abnormal heartbeat. That is
+pneumonia in *post-acute* phase, mind you. Lowest eigenvector
+centrality include smell taste, headache, mental disorders.
 
 ## Cancer Dx Digital Quality Measures
 
@@ -491,9 +518,79 @@ Me.
 
 ## A Code for "Undiagnosed" to Shorten Rare Disease Dx Odyssey
 
-
+Helen Hernandez, KAL Research. Zoya's Law: Serbia. If dx not reached
+in 6 months, samples sent out. Bojana Mirosavljevic. R69 ICD-10 code.
+R69initiative.org . R69 is used in USA, 4 M patients per 3 years.
+Often outlier categories like food-related, medical transport, blood
+banking.
 
 ## Auto Feedback & ER Resident Followup
+
+Rob El-Kareh, UCSD. No feedback = can't improve. Happens commonly in
+ER about long-term. PHAROS system: id, date, dx1, dx2, death, code,
+other, events. Methods = email and video (2020), and reflective
+exercise (two). Email says "you have 22pts and 4 post-handoff events,"
+*e.g.* Primary outcome is reacccess from 2 to 14 days, over total
+number of handoffs. Interrupted pre/post. Also variability
+month-to-month in the usage volume. Limitations: chart reaccess
+doesn't mean you learned, and also no control group *per se*. ER
+residents do want closing loop.
+
+
+
+
+# Clinical problem-solving
+
+82 p/w progressive dyspn. 1 week. nose congest, fatigue. now with
+fever cough dyspn. December 2020.
+
+pmh: dm copd htn hypothyroid
+
+cxr patchy bibas, covid neg, flu test pos. Also has whz. Tx tamiflui
+pred neb enox. Admit, got worse, BiPAP, 30-40% FIO2, better, but then
+worse dyspnea, palpitations, ECG afrvr. Got iv dilt, change to tx-dose
+enoxaparin.
+
+Management reasoning:
+: like diagnostic reasoning but about optimizing the treatment, but
+also other actions.
+
+*Hospital day 4*. Nearly ready to go home tomorrow. Now 1 L O2, bp
+94/76 hr 71. Acute abd pain. Afebrile. Few whz, still irreg. Abd
+distended, LLQ very tender, no peritoneal. No edema.
+
+Non localizing: vascular, perforation, obstruction. Mesenteric
+ischemia bad, colonic can respond to nonsurgical (medical). CT = big
+rectus hematoma, compresses bladder too, some maybe active hemorrage
+too. (Fothergill's sign, *q.v.*)
+
+Labs hgb 10, creat 1.6, inr 1.1, fibrino 358. ptt 39.
+
+IR = gelfoam embol of the right-sided L infer epigastric, no active
+extravasation. No uop thru Foley, got 3 L fluid, hypoxemia, still no
+urine.
+
+Next day cr 2.5, hgb 9.3, wbc 15, k 5.1, bicarb 17. AG 16. CT again =
+bigger hematomas, in pelvis too, hematoma compresses bladder, which is
+empty of urine. Hypotension, delirium. 74/42. 94% on 4 liters.
+
+wbc 19, hgb 8, vbg 7.12/50, lact 11, k 6.1, creat 3.1.
+
+- kidney clot, obstruc, shock
+- tamponade
+
+echo normal, hyperdynamic. Tx norepi, abx, hydrocort. Something
+performed in the room.
+
+- dre: brown stool
+- bladder pressure?
+- "hematoma" fluid sampling?
+
+Turned out to be 24 mmHg. Took to OR, cut open abd hematoma.
+
+**Abdominal compartment syndrome**.
+
+Trigger for workup: lactic acidosis.
 
 
 
