@@ -504,7 +504,7 @@ Network and network cluster. Found enthesis related cluster also had
 LBP, joint stiffness, sacroiliitis, Lyme. Network metric *betweenness
 centrality* is how much bridging does a node do between others. Those
 play key role in dx journey. Osteochondrosis and Anxiety are two with
-high betweenness centrality. Osteochondrosisis considered common, prob
+high betweenness centrality. Osteochondrosis is considered common, prob
 a misdx? Themes elicited from parents: kids can't, growing pains, kids
 get hurt, faking, etc. Also long COVID comorb network, high
 eigenvector centrality means it's connected to many other high-scoring
@@ -530,7 +530,7 @@ Rob El-Kareh, UCSD. No feedback = can't improve. Happens commonly in
 ER about long-term. PHAROS system: id, date, dx1, dx2, death, code,
 other, events. Methods = email and video (2020), and reflective
 exercise (two). Email says "you have 22pts and 4 post-handoff events,"
-*e.g.* Primary outcome is reacccess from 2 to 14 days, over total
+*e.g.* Primary outcome is reaccess from 2 to 14 days, over total
 number of handoffs. Interrupted pre/post. Also variability
 month-to-month in the usage volume. Limitations: chart reaccess
 doesn't mean you learned, and also no control group *per se*. ER
@@ -544,9 +544,9 @@ residents do want closing loop.
 82 p/w progressive dyspn. 1 week. nose congest, fatigue. now with
 fever cough dyspn. December 2020.
 
-pmh: dm copd htn hypothyroid
+pmh: dm COPD htn hypothyroid
 
-cxr patchy bibas, covid neg, flu test pos. Also has whz. Tx tamiflui
+CXR patchy bibas, COVID neg, flu test pos. Also has whz. Tx tamiflu
 pred neb enox. Admit, got worse, BiPAP, 30-40% FIO2, better, but then
 worse dyspnea, palpitations, ECG afrvr. Got iv dilt, change to tx-dose
 enoxaparin.
@@ -555,22 +555,22 @@ Management reasoning:
 : like diagnostic reasoning but about optimizing the treatment, but
 also other actions.
 
-*Hospital day 4*. Nearly ready to go home tomorrow. Now 1 L O2, bp
+*Hospital day 4*. Nearly ready to go home tomorrow. Now 1 L O2, BP
 94/76 hr 71. Acute abd pain. Afebrile. Few whz, still irreg. Abd
 distended, LLQ very tender, no peritoneal. No edema.
 
 Non localizing: vascular, perforation, obstruction. Mesenteric
 ischemia bad, colonic can respond to nonsurgical (medical). CT = big
-rectus hematoma, compresses bladder too, some maybe active hemorrage
+rectus hematoma, compresses bladder too, some maybe active hemorrhage
 too. (Fothergill's sign, *q.v.*)
 
 Labs hgb 10, creat 1.6, inr 1.1, fibrino 358. ptt 39.
 
 IR = gelfoam embol of the right-sided L infer epigastric, no active
-extravasation. No uop thru Foley, got 3 L fluid, hypoxemia, still no
+extravasation. No UOP thru Foley, got 3 L fluid, hypoxemia, still no
 urine.
 
-Next day cr 2.5, hgb 9.3, wbc 15, k 5.1, bicarb 17. AG 16. CT again =
+Next day Cr 2.5, hgb 9.3, wbc 15, k 5.1, bicarb 17. AG 16. CT again =
 bigger hematomas, in pelvis too, hematoma compresses bladder, which is
 empty of urine. Hypotension, delirium. 74/42. 94% on 4 liters.
 
@@ -595,6 +595,22 @@ Trigger for workup: lactic acidosis.
 
 
 
+# Awards
+
+- vignette poster: MRI and PRES. Nicole Luche, U Pitt.
+- edu poster: Deliberate Practice: Jason Waechter U Calgary.
+- sci poster: The Learning env and documentation. Verity Schaye.
+- improvement poster: e handoff tool ICU to ward. Emma McCune UCSF.
+- botb: El-Kareh, auto outcome feedback on res followup.
+
+
+
+# Closing
+
+Andrew Olson
+
+
+
 
 
 
@@ -616,9 +632,18 @@ LocalWords:  UniverseOfCPC grepMed algs Mansoor interp coag scott ddx
 LocalWords:  osher Osheroff minen eddx ely JW Sibbald Monteiro Vadim
 LocalWords:  Cephalalgia Dukhanin omron Toker mgt knowl Grubenhoff ge
 LocalWords:  ESI zook lang khanbell phengland CPRD Fateha Zannath PIM
-LocalWords:  Taharat Raffel HOMERuN hosps Vizient ident eval Kedar
+LocalWords:  Taharat Raffel HOMERuN hosps Vizient ident eval Kedar fu
 LocalWords:  aamc interprofessional LaConte pre Carilion Laconte Roni
 LocalWords:  redish energetics nonmonotonic mathphy Friedlander Matin
 LocalWords:  livingphysicsportal signout burnetii phagolysosomes circ
 LocalWords:  multilobar granulomatous Hallpike AVS periph oculography
 LocalWords:  brainer VOG Natus Otometrics Zee oto Luc Tilly Roos Haga
+LocalWords:  cachexia Saxton Motycka Giardina vis attrib Nawab CHoP
+LocalWords:  BayesNet Mei Ong Repurpose CARRA biologics sacroiliitis
+LocalWords:  betweenness Osteochondrosis misdx comorb KAL Zoya's pts
+LocalWords:  Bojana Mirosavljevic PHAROS handoff reaccess pmh dm htn
+LocalWords:  bibas pos whz tamiflu pred neb enox BiPAP FIO afrvr dilt
+LocalWords:  enoxaparin abd irreg Abd Fothergill's hgb inr fibrino
+LocalWords:  ptt gelfoam embol epigastric extravasation hypoxemia wbc
+LocalWords:  vbg lact obstruc tamponade hyperdynamic norepi abx dre
+LocalWords:  hydrocort Luche Waechter env Schaye McCune botb
