@@ -1,13 +1,13 @@
-files = Readme.pdf yossarian.pdf sidm2023.pdf
+files = Readme.pdf yossarian.pdf sidm2023.pdf schedule-2023.pdf
 
 .PHONY: all clean
 
 all: $(files)
 
-%.pdf: %.md
+%.pdf: %.txt
 	pandoc -o $@ $<
 
-sidm2023.pdf: sidm2023.txt
+Readme.pdf: Readme.md
 	pandoc -o $@ $<
 
 clean:
