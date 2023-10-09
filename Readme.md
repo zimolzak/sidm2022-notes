@@ -1,4 +1,4 @@
-f# SIDM2022 Conference (Society to Improve Diagnosis in Medicine)
+# SIDM2022 Conference (Society to Improve Diagnosis in Medicine)
 
 2022-10-16, Minneapolis.
 
