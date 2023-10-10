@@ -421,7 +421,102 @@ implemented (only 13%).
 
 
 
-Also nr 5 in Hope A, 11:30. PRO for timely cancer dx.
+# PRO for timely cancer dx (other concurrent)
+
+**Claire O'Hanlon**, Rebecca Anhang Price, *et al*. RAND Corporation.
+
+Survey to understand system brakdowns in dx process. GBMF funding. How
+did we come up with these Qs, and our panel process, technical expert
+clinical user patient panel (TECUPP, pronounced *teacup*).
+
+Look at every survey about timely cancer dx. $N = 14$ on TECUPP. 4
+research experts, 3 clinical (pcp, onc, er), 7 patients. $M = 6 \times
+90$ min meetings in early 2023, anchor by a pt dx story. Followed a
+model[^bmod]. Important, can report on, and docs can act on: $I \cap R
+\cap A$. Cross off the HPI and exam: hard for pts to report on (tell
+whether approp).
+
+[^bmod]: Bell SK et al. Filling a gap in safety metrics. BMJQS 2022.
+
+- 28 substantive
+- 9 demographic
+- 2 open-ended
+
+Did cogn testing with unfamiliar ppl, $K = 15$. It's a "pan-cancer"
+measure. Alpha test in $P = 1176$ Cedars Sinai patients. Domains are:
+type and stage, route (sx, screen, incidental), usu care and barriers,
+specialist and barriers, tests, access to interpreters, overall
+experience.
+
+Denominator:
+: All stage I--IV ICD-10 codes, except common skin CA C44 and CA-like
+C96, $\land$ new dx in last 6 mo $\pm$ 3 mo, look back a certain number of
+years.
+
+Publicly available and free to use!
+
+Q and A. A: Delay conflates several different concepts.
+
+My Q, can you do other than ICD? A: Registry might not be OK, if not
+up to date. But depends on your site's backlog. Also attrition. Also
+we don't exclude based on hospice or palliative.
+
+
+
+
+# Lunch and learn
+
+Raj Manrai, ChatGPT.
+
+
+
+
+# Concurrent
+
+## Handoff of PICU
+
+Tina Cifra.
+
+Especially urgent inter-facility. Many have dx discordance[^disc].
+Focused ethnography. Direct observation of first "tuck in," waiver of
+consent and ask after the fact. Recorded the routinely recorded phone
+communication. Coding and thematic analysis. New model of the dx
+process handoff. $N = 19$ patients, with their parents/guardians, 206
+person hours of observation, 80 interviews. Themes:
+
+- referring hosp does not have $x$ resource
+- there is "PICU team" and "rest of the PICU team."
+- they get more info fr parents, and parents need time
+- there are relationship factors betw referring and PICU
+
+Done at U Iowa, AHRQ K08.
+
+[^disc]: Philpot 2008; Noje 2021.
+
+
+
+## Signaling Sepsis Clinical Decision Support
+
+Pilot: Iterative Design, Implementation, and Evaluation – Kristen Miller, MedStar Health, National Center for Human Factors in Healthcare
+
+
+
+## Improving Completion of Red Reflex Examinations
+
+at NICU Discharge: A Practice Improvement Initiative – Grant Shafer, Children’s Hospital of Orange County
+
+
+
+## Bundle to Reduce Neonatal and Maternal Morbidity
+
+from Operative Vaginal Birth – Nadine Murray, Monash Health
+
+
+
+## Diagnostic Improvement Team by Generalists
+
+for Patients in Organ-specialized Wards – Takanori Uehara, Chiba University
+
 
 
 
