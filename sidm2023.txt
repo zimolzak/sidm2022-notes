@@ -9,7 +9,7 @@
 
 Verity Schaye. Congressman Brad Wenstrup (R, OH-02). Bill, early
 screening and detection of cancers. H.R. 2407 (118th Congress) Nancy
-Gardner Sewell Medicaer Multi-Cancer Early Detection Screening
+Gardner Sewell Medicare Multi-Cancer Early Detection Screening
 Coverage Act. Revenue cycle management, $100 billion. Peer review for
 approval, MRI. Healthy people paying taxes makes us a better nation.
 Emerson, paraphrased: I meet is in some way my superior, and I can
@@ -67,7 +67,7 @@ Helen Epstein.
 
 Kathryn McDonald, PhD, MM, BS. Viewed as passive puzzle[^grae] and
 doctor is puzzle master. The patient is in, and MIS-C[^olog]. Patient
-repoted measures[^bell][^zw1]. They all cite "The patient is in." Why
+reported measures[^bell][^zw1]. They all cite "The patient is in." Why
 the training? Why training to be heard? Why training to be patient
 advocates? Inequity[^gay].
 
@@ -95,10 +95,10 @@ illness." Postcards to doctors, like postcards to voters.
 
 ## Tamer Seckin
 
-Co-founder, emdometriosis foundation of america. EndoFound. Also at
+Co-founder, endometriosis foundation of America. EndoFound. Also at
 Lenox Hill Hospital. And Padma Lakshmi. Story of NYC attorney[^wapo].
 Annual Blossom Ball. Thoracic endometriosis under-recognized during
-VATS. Funding wustl, ut health, mit, hutch, msu, george mason, etc.
+VATS. Funding wustl, ut health, mit, hutch, msu, George mason, etc.
 Inform HS students from grant from NYC, 2014. $N = 38,000$ children,
 $M = 1200$ presentations, $K = 545$ volunteers. Men, little
 understanding of women's physiology. NY state bill. Enpowr project.
@@ -127,7 +127,7 @@ Nevel, chief diversity and human resource officer, MetroHealth.
 *Turning Pain into Purpose: Lifting Up the Health and Wealth of
 Communities.*
 
-## Metrohealth and Cleveland
+## MetroHealth and Cleveland
 
 > Has $1.7B net revenue, five acute and specialty-care hospitals,
 > 8,000 employees and providers, over 40 ambulatory care locations and
@@ -171,7 +171,7 @@ Psychology Lens (Zwaan, Olson, Sloane). Center Street B.
 A few Slido polls.
 
 Jot down notes. Uncertainty. What was known and what was uncertain?
-How did different peole experience it differently. How was uncertainty
+How did different people experience it differently. How was uncertainty
 discussed?
 
 > When to do the test? What was uncertain turned out to be some
@@ -185,7 +185,7 @@ Three types:
 
 1. decision under *certainty,* you know what you get (soft drink).
 2. under *risk,* you know probabilities (roulette).
-3. under *uncertaianty,* you *don't* know the probabilities.
+3. under *uncertainty,* you *don't* know the probabilities.
 
 Maybe you don't even know all the options. Try to reduce
 uncertainty[^unc]. Disease evolution happens. Healthy, change (but not
@@ -195,12 +195,12 @@ change) result in overdiagnosis.
 
 [^unc]: Zwaan BMJQS 2019
 
-Often, juniors aare less toleraant of uncertaaainty thana
+Often, juniors are less tolerant of uncertainty than
 experts[^jr][^adv].
 
 [^jr]: Lawton, BMJQS
 
-[^aadv]: adv in heaalth sci edu 2018
+[^adv]: adv in health sci edu 2018
 
 ## Case role play
 
@@ -217,9 +217,9 @@ versus empathy.
 
 ## Diagnostic Process
 
-Jenny Sloane. Domaains of cognition: mem, attn, percep, metacogn,
+Jenny Sloane. Domains of cognition: mem, attn, percep, metacogn,
 think and problem solve, language. Memory: 12k or 63k diseases is
-hard. Attention oand percep: did you miss something? Meta: is you
+hard. Attention and percep: did you miss something? Meta: is you
 accuracy aligned with confidence? Often the answer is no (under- or
 overcofident). Thinking and prob: is your thinking biased? Can we
 de-bias? Be aware there are biases. Languaage: often not discussed as
@@ -288,3 +288,157 @@ Bethany Wickramasinghe, University College London.
 ## Application of a Digital Quality Measure for Cancer Diagnosis in Epic Cosmos
 
 Me!
+
+
+
+
+# Plenary: Clinical Reasoning Assessment
+
+Michael Barone, MD, MPH (vp compentency based assessment, peds, JHU).
+Christopher Runyon, PhD.
+
+Reviews: curric not always good at teaching reasoning[^hmk][^kz].
+USMLE Step 2 CS stopped during pandemic. Then decided no relaunch. It
+was driving resources to standardized patients in schools.
+
+[^hmk]: Hawks MK. Clinical Reasoning Curricula. Acad Med 2023.
+
+[^kz]: Kanjee, Zahir. Teaching Evidence-Based Physical. MedEdPortal.
+
+Summative:
+: assessment *of* learning. Like "how did you do on the whole course."
+
+Formative:
+: assessment *for* learning. See if knowledge gaps and room for
+improvement.
+
+Start with the inference yyou want to make about learner (in some kind
+of phrase like "learner understands $x$").
+
+Clinical reasoning:
+: a skill, process, or outcome wherein clinicians observe, collect, and
+interpret data do dx/tx patient[^def]
+
+[^def]: Daniel M, Rencic J, Durning SJ, *et al.* Clinical Reasoning
+Assessment Methods: A Scoping Review and Practical Guidance. *Acad
+Med.* 2019;94(6):902--912.
+
+There are 7 components[^def]. Outcome is the outcome: right or wrong,
+but don't know if right because know, or by guessing. Process is: what
+was their thinking? They can highlight 5 pieces of info that best
+support plantar fasciitis.
+
+Funded 10 faculty to partner. OSCE. "Creator community," $n \approx
+11$ faculty from schools. To create patients or assessments. Learners
+are involved too. Build validity on the way. Not "build first, then
+see afterwards whether it measures what we think/want." Now trying to
+get info gather, hypothesis gener, etc. {Be curious, organize your
+questions, avoid irrelevant hx questions} $\in$ use hypothesis to
+gather hx. Plus, you can do things like concise $\times$ organized,
+and $\times$ organ system, too.
+
+Comp linguistics. He says NLP $\subset$ CompLing. Example: *Julius
+Caesar,* count all instances of one word, count proper nouns, count
+2-grams, count skip-grams. Student will write a note; turn it into
+clinical concepts (account for lexical variants).
+
+Fairness and equity. Make sure items don't perpetuate bias. And
+*differential item function analysis*.
+
+- outcome $\land$ summative is predominant
+- CompLing for measuring more complex things
+- $\exists$ fairness and equitiy concerns
+- $\exists$ AI competencies too
+
+## Q and A
+
+De-skilling due to AI? A: Think of Internet advent. Hold on less dear
+to thinkgs we thought were dear. Co-production.
+
+
+
+
+# Concurrent: Recognizing excellence in dx, hospital settings
+
+Mark Graber. Jean-Luc Tilly, Leapfrog. Alex Campione. Matt Austin,
+PhD, from JHU.
+
+Survey of 95 hospitals. Why hospitals? Why not measure plan level,
+provider level, *etc.*? Kind of includes ER. 250k dx error / yr
+inpatient.
+
+> Supposedly 900k beds (statista.com, aha.org). So 0.278 / bed / yr.
+> Couple hundred bed hospital: 56 / yr. One every 6.6 days. That
+> actually seems low.
+
+Sue Sheridan, Patients for Patient Safety. PCAST, 6 member working grp
+on pt safety, early 2022. Can make recs to HHS agencies. There is a
+report[^pcast].
+
+[^pcast]: Report to the President: A Transformational Effort on
+Patient Safety. President’s Council of Advisors on Science and
+Technology. September 2023. whitehouse.gov/ wp-content/ uploads/
+2023/09/ PCAST_Patient-Safety-Report_Sept2023.pdf
+
+"There are a lot of quality measures." Debate on burden, cost/benefit.
+Leapfrog has seen it work in maternity care. Early elective deliveries
+< 5%, worked from 2010--2014 (was 17%). Episiotomy, 5%, worked
+almost, from 2015--2020, was 10% at start. Takes a while to get there
+once measure is introduced, and keeps some sustained decrease after
+hitting target. There is their report[^leap]. MeasureDx and SaferDx
+Checklist. Divvy at Geisinger too. They use 2021 AHRQ *Common Formats
+for Event Reporting - Diagnostic Error*. Does have to be communicated
+to patient *effectively*. So, one result in patient portal is not
+necessarily effective.
+
+[^leap]: leapfroggroup.org/ influencing/ recognizing-excellence-diagnosis
+
+There are some patient-focused recommended practices. Have working
+PFAC. Give patient tools[^tool]. Clinician-focused: get 2nd dopinions,
+protected time, discrepant rad or path finding, take responsibility
+that results and TPAD are viewed and communicated to patient timely
+(close the loop). Leadership-focused.
+
+[^tool]: AHRQ Toolkit for Engaging.... SIDM Patient Toolkit for
+Diagnosis.
+
+## Pilot Survey
+
+Alex Campione. So that was $\frac{14}{29}$ practices covered in that
+overview of Leapfrog report. We surveyed $N = 95$ hospitals
+perticipated. Big majority urban, majority teaching. 48% were
+achieving Leapfrog 'A' grade, which is high. Common in PA, CA, FL, KY,
+NY, CT. About 5 hosps were superstars, implemented $> \frac{1}{2}$ of
+the 16 Domain 1 practices. Sometimes there was misunderstanding of the
+practice. They say "achieved" when really not meeting all points. The
+norm is "done or working on $> \frac{1}{2}$." Of patient-focused: most
+implemented is notify pts of dx errors, and least is help patients by
+using toolkits. Clinician: most is discrepant, least is close loop.
+Leadership: the category with biggest lack of implementation.
+Controversial one was CEO commitment via statement, and also least
+implemented (only 13%).
+
+
+
+
+Also nr 5 in Hope A, 11:30. PRO for timely cancer dx.
+
+
+
+
+# Plenary: Debates on Diagnosis in the Artificial Intelligence Age
+
+
+
+
+# Plenary: Funder’s Perspective
+
+
+
+# Local words (ignore)
+
+LocalWords:  cnn Hoar Xfer gastro appy attrib pneumoperitoneum abd zw
+LocalWords:  Shitsgiving Mahajan EMDR Kurtz grae MIS olog Wiegand CFS
+LocalWords:  Milbank Kamp Patientology Graedon MEAction hypermobility
+LocalWords:  Seckin EndoFound wapo wustl ut mit Enpowr O'Neal Airica
+LocalWords:  MetroHealth Nevel Astik Slido unc presymptom Lawton
