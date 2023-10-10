@@ -115,28 +115,176 @@ John Ritter foundation for aortic health, CEO.
 
 # Lunch and learn
 
-superior ballroom. 12:15.
+Superior ballroom, 12:15.
 
 
 
 
 # Plenary
 
-1pm
+Airica Steed, Ed.D, RN, CEO and pres of The MetroHealth System. Alan
+Nevel, chief diversity and human resource officer, MetroHealth.
+*Turning Pain into Purpose: Lifting Up the Health and Wealth of
+Communities.*
+
+## Metrohealth and Cleveland
+
+> Has $1.7B net revenue, five acute and specialty-care hospitals,
+> 8,000 employees and providers, over 40 ambulatory care locations and
+> one of the most highly regarded academic public health systems
+> across the country.
+
+Has been around since 1837. Started as Cuyahoga County public
+hospital. Cleveland: child poverty rate. 300k patients, most Medicare,
+Medicaid, or uninsured. Drive 5 miles, > 20 year difference in life
+expectancy. Least livable city for black women.
+
+## Dr. Steed
+
+Mother AML, but misdiagnosed twice, 46 yrs old. Info sharing, care
+delayed. Sister "too young" for mammogram. Tori Bowie, Olympic gold
+medal, 2016 Rio de Janeiro, $4 \times 100$ m relay: preeclampsia,
+eclampsia.
+
+- Community outreach, Institute for H.O.P.E.:Health, Opportunity,
+  Partnership and Empowerment.
+
+Not white or brown problem; it's a human problem. Listening session
+with community and employees. Community Advisory Councils.
 
 
 
 
-# Concurrent 1, 2:15 p.m.
+# Uncertainties and Cognitive Psychology
 
-Introduction to Diagnostic Excellence (Graber, Schiff, Astik). Hope A.
+Concurrent 1, 2:15 p.m.
 
-Disparities in Diagnosis and Treatment (Wang). Hope C.
+- Introduction to Diagnostic Excellence (Graber, Schiff, Astik). Hope A.
 
-Complexities and Uncertainties in Diagnosis from a Cognitive
+- Disparities in Diagnosis and Treatment (Wang). Hope C.
+
+- Complexities and Uncertainties in Diagnosis from a Cognitive
 Psychology Lens (Zwaan, Olson, Sloane). Center Street B.
+
+## Intro
+
+A few Slido polls.
+
+Jot down notes. Uncertainty. What was known and what was uncertain?
+How did different peole experience it differently. How was uncertainty
+discussed?
+
+> When to do the test? What was uncertain turned out to be some
+> symptoms too. Uncertain: cost benefit. Hard to discuss. Goals in
+> tension. Patient and family experiences. Not discussed much. If you
+> choose not to decide, you still have made a choice.
+
+## Zwaan
+
+Three types:
+
+1. decision under *certainty,* you know what you get (soft drink).
+2. under *risk,* you know probabilities (roulette).
+3. under *uncertaianty,* you *don't* know the probabilities.
+
+Maybe you don't even know all the options. Try to reduce
+uncertainty[^unc]. Disease evolution happens. Healthy, change (but not
+disease), presymptom dz, and symptom dz (but can be weird
+presentation). Excessive test among the first 2 (healthy or just a
+change) result in overdiagnosis.
+
+[^unc]: Zwaan BMJQS 2019
+
+Often, juniors aare less toleraant of uncertaaainty thana
+experts[^jr][^adv].
+
+[^jr]: Lawton, BMJQS
+
+[^aadv]: adv in heaalth sci edu 2018
+
+## Case role play
+
+(See separately.)
+
+- Ask clarifying question(s) about, "Is he going to be OK?"
+- Do say "I don't know"
+- Do tell truth, even if hard
+
+> Hard to ask hard question. Waiting for answer.
+
+Epistemic versus aleatoric uncertainty. I need more information,
+versus empathy.
+
+## Diagnostic Process
+
+Jenny Sloane. Domaains of cognition: mem, attn, percep, metacogn,
+think and problem solve, language. Memory: 12k or 63k diseases is
+hard. Attention oand percep: did you miss something? Meta: is you
+accuracy aligned with confidence? Often the answer is no (under- or
+overcofident). Thinking and prob: is your thinking biased? Can we
+de-bias? Be aware there are biases. Languaage: often not discussed as
+a domain. Are we communicating effectively?
+
+Meta: Physicians don't always know what they don't know.
+
+Feedback is a solution. Physician $\to$ decision process $\to$
+outcome, which can be a good one or not. If not, re-calibrate and go
+back to the doc[^pc]. Favorable is not highlighted enough, probably.
+Feedback here allows you to *maintain* your calibration. But then,
+outcome sometimes unknown.
+
+[^pc]: Croskerry
+
+How does uncertainty occur thru dx process[^exper]. Five steps.
+Engaage, info gather, interp, working dx, communicate dx.
+
+[^exper]: Meyer ANDM. Patient and clinician experiences of
+uncertainty. *Patient Education and Counseling.*
+
+Ask people what they searched, not what they read.
+
+
 
 
 # Concurrent 2 (mine)
 
-hope A
+Hope room A
+
+## Qualitative Analysis of a National Patient Safety Event Database
+
+Jeffrey Gold, Oregon Health & Science University.
+
+
+
+
+## The Current State of Science of Diagnostic Safety
+
+Sundas Khan, Baylor College of Medicine.
+
+
+
+
+## A Portfolio of E-Triggers to Measure Multiple Types of Diagnostic Errors
+
+Viralkumar Vaghani
+
+
+
+
+## Comparison of Performances of ChatGPT and GPT-4
+
+Takashi Watari, General Medicine Center, Shimane University Hospital.
+
+
+
+
+## How Does Prescribed Medication Influence How Patients Appraise and Seek Help
+
+Bethany Wickramasinghe, University College London.
+
+
+
+
+## Application of a Digital Quality Measure for Cancer Diagnosis in Epic Cosmos
+
+Me!
