@@ -5,6 +5,8 @@
 
 
 
+# MONDAY
+
 # Opening
 
 Verity Schaye. Congressman Brad Wenstrup (R, OH-02). Bill, early
@@ -292,6 +294,8 @@ Me!
 
 
 
+# TUESDAY
+
 # Plenary: Clinical Reasoning Assessment
 
 Michael Barone, MD, MPH (vp compentency based assessment, peds, JHU).
@@ -494,41 +498,161 @@ Done at U Iowa, AHRQ K08.
 [^disc]: Philpot 2008; Noje 2021.
 
 
-
 ## Signaling Sepsis Clinical Decision Support
 
-Pilot: Iterative Design, Implementation, and Evaluation – Kristen Miller, MedStar Health, National Center for Human Factors in Healthcare
+Kristen Miller, MedStar Health, National Center for Human Factors in
+Healthcare.
 
+Reluctance to use the word *sepsis.* "Just say sepsis" campaign. Were
+interested in "pyro" sepsis scoring system. Usability and
+acceptability endpoint too. Some don't present with sepsis but develop
+it. Opportunities: "sepsis APP"; also not enough rapid responses.
+
+Current HIT tools. They have to hunt and gather. What did they want:
+patient info, CMS bundle done/not, Did: dashboard, nurse driven.
+Patient level "MPage," where we put the stuff they wanted to see into
+a single page. Limited by working within Cerner. Had a UI/UX person
+evaluate, and IT was able to make some changes.
+
+Evaluation: 300 uses in 3 months. Mortality index seemed to go down.
+Usability scores reasonable. Experienced people thought it was more
+usable.
+
+> Without significant funding, we cannot build complex health IT tools
+> into the EHR.
+
+Niche was **nurses**. SIDM DxQI project.
 
 
 ## Improving Completion of Red Reflex Examinations
 
-at NICU Discharge: A Practice Improvement Initiative – Grant Shafer, Children’s Hospital of Orange County
-
-
+Grant Shafer, Children’s Hospital of Orange County
 
 ## Bundle to Reduce Neonatal and Maternal Morbidity
 
-from Operative Vaginal Birth – Nadine Murray, Monash Health
-
-
+Nadine Murray, Monash Health
 
 ## Diagnostic Improvement Team by Generalists
 
-for Patients in Organ-specialized Wards – Takanori Uehara, Chiba University
+Takanori Uehara, Chiba University
 
+## Dx Excellence Dashboard
+
+Irit Rasooly MD MSCE, from CHOP.
+
+AHRQ K08, career award. "Protected under MCARE provisions."
 
 
 
 
 # Plenary: Debates on Diagnosis in the Artificial Intelligence Age
 
+- Paul Bergl, MD
+- Adina Kern-Goldberger
+- David Burstein
+- David Kudlowitz
+- Gabor Toth
+- Julie Thai
+- Margaret Bavis, DNP, APRN, FNP-BC
+- Mary Dahm, PhD, MA
+- Susrutha Kotwal, MBBS, MD
+
+# Posters
+
+Hooray!
+
 
 
 
 # Plenary: Funder’s Perspective
 
+## AHRQ
 
+Craig Umscheid, Margie Shofer, from Ctr for Qual Improvement and Pt
+Safety, AHRQ. **CQuIPS.**
+
+Consider: NIH, AHRQ, FDA, CDC, which are some of HHS. ${N, A, F, C} \in H$
+
+ahrq : qual :: cdc : pub health :: nih : biomed
+
+Starting in 2019, dedicated funds for Dx safety, not just from
+general. Split betw grants and contracts. Ten DCEs, dx safety ctrs of
+excellence. A *pt safety learning lab* uses sys engineering approach.
+Several program announcements. K08, K01, R03, R01, R18, R13. New ones:
+R01 dx safe in *ambulatory* which includes ED, by the way. R18, also
+ambulatory (Feb). Get it in early!
+
+Whole lot of issue briefs $(n = 15)$. Medstar, with sub to BCM.
+Published too, we paid open acc.
+
+Practice improvement. You can use these tools *today!* Several
+patient-facing, including "Be the expert on you." For providers, "60
+seconds to improve dx safety." Measure Dx. Calibrate Dx. TeamSTEPPS.
+
+Evaluate those resources! Email Margie if interested.
+
+Craig, on data and measurement portfolio.
+
+PSO:
+: an org that interacts with a provider org to collect, digest, etc.,
+to improve patient safety. Often feedback. Provider org gets legal
+protections.
+
+AHRQ certifies and lists PSOs. Also common formats. So that **the
+country knows what patient safety events are occurring**. Survey on
+Patient Safety Culture (SOPS). There is a dx safety supplemental item
+set. $\exists$ a DB, makes for deident data sharing for research. $N =
+1126$ respondents from 110 offices (2020--2021).
+
+Sec of HHS, patient safety call to action. IHI's *Safer Together*. Nat
+action alliance to advance patient safety: launch winter 2023. There
+have been webinars.
+
+{craig.umscheid , margie.shofer} @ ahrq.hhs.gov
+
+
+## Dx safety/quality, funder related to aging
+
+Rani Snyder MPA, VP, John A. Hartford Foundation.
+
+The 4 Ms: what matters, mobility, medication, mentation[^jags]. See
+IHI.org site, age-friendly health systems.
+
+[^jags]: Fulmer T et al. The age-friendly health system.... *JAGS*
+66(1): 22-24.
+
+Turns out JAHF joined GBMF[^cass]. Ageist stereotypes obscure clear
+diagnostic thinking. NASEM workshop, advancing dx excellence for older
+adults.
+
+[^cass]: Cassel, Fulman. Achieving diagnostic excellence for older....
+*JAMA* 2022.
+
+`JAHF = [10, 1, 8, 6]`
+
+`GBMF = [7, 2, 13, 6]`
+
+`D    = [-3, 1, 5, 0]`
+
+CMSS: council of med specialty societies. NASEM forum on advancing
+DxEx. Meet 3/year. See nationalacademies.org.
+
+
+
+
+# WEDNESDAY
+
+# AHRQ Diagnostic Safety Centers of Excellence
+
+# Best of the Best
+
+# Lunch: Moore Foundation’s Diagnostic Excellence Initiative
+
+# Concurrent
+
+# Clinical problem solving
+
+# Awards
 
 # Local words (ignore)
 
