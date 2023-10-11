@@ -645,15 +645,44 @@ people. That's called ageism."
 
 # WEDNESDAY
 
-# AAMC student presenters.
+# Intro
 
 Celina Yang, Ashley Hope, Juliet McMullin PhD, UC Irvine. Art to
-understand bias & dx.
+understand bias & dx. Poetry, clay miniature making, printmaking,
+photography, improv.
+
+Valerie McDonald Phd M4, UW. Text message based micro course.
+
+Wyatt Cole, M3, Vanderbilt. Community art initiative.
+
+Patient story, 18 mo delayed dx nHL, sleep, edema, cough.
 
 
 
 
 # AHRQ Diagnostic Safety Centers of Excellence
+
+Monika Haugstetter, AHRQ.
+
+## PPDCE
+
+Kristen Miller, Medstar (human factors, usability, pt safety). Role of
+patient in detecting and preventing errors in their own healthcare.
+Priorities[^zw1]. EHR along can't find all failures along NASEM
+system. Experience is the experience. Workstreams:
+
+1. Detect safety risk fr patient reports (Kelly), scoping review, NLP.
+2. Detect biases from patient dx safety reporting. (Traber)
+3. Communicate the dx (Kristen), scoping review too
+4. codesign guidelines for pt engagement (Helen)
+
+## Goutham Rao
+
+tk
+
+## Mark Graber
+
+tk
 
 
 
