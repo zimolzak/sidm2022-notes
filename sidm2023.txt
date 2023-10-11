@@ -689,25 +689,52 @@ tk
 
 # Best of the Best
 
+Moderatoor: Ava Liberman, Cornell.
+
 ## Implementation of Measure Dx
 
-Andrea Bradford
+Andrea Bradford. Multiple sources for finding dx error.
+
 
 ## A Patient-Reported Measure of Diagnostic Excellence
 
-Kelly Gleason, Johns Hopkins University School of Medicine
+Kelly Gleason, Johns Hopkins University School of Medicine. Mesure,
+psychometric properties. Full text quotes. Dx was not true, or not
+communicated, or yes true.
+
 
 ## Improving Clinical Reasoning for APPs
 
-David Klimpl, University of Colorado
+David Klimpl, University of Colorado. It was for an APP *fellowship*.
+Hospital medicine setting. SIDM has core competencies for clinical
+reasoning. Module 1: what is a prob representation, what is an illness
+script? Mod 2: dual proc theory, biases, mitigation if possible. Mod
+3: Bayesian. Mod 4: M&M like, bring in a case, how initial dx was
+different, teach each other.
+
+Hard a bit, because audience is lots of different fellows, some with
+much experience before fellowship. "Flipped classroom," do prework and
+then come in and teach each other. (Is that flipped classroom,
+though?)
+
+Even in post survey, they said they kept using the skills and found
+them valuable.
+
 
 ## Engaging Older Adults in Diagnostic Communication
 
-Alberta Tran, MedStar Health’s Institute for Quality and Safety
+Alberta Tran, MedStar Health’s Institute for Quality and Safety. Some
+people didn't so much like "be the expert on you." They got it, but we
+then did a script for nurses to invite patients to use the note sheet.
+Mostly > 45 yr old, majority women, majority black of af amer. Some
+thought they didn't want to write; need for other types of tools.
+Concern about the term *expert*.
+
 
 ## Association, Patient-reported Diagnostic Concerns and Record Reviews
 
 Viralkumar Vaghani
+
 
 ## Machine Learning for Enhanced Electronic Trigger Detection
 
@@ -718,7 +745,157 @@ Andrew Zimolzak, Baylor College of Medicine
 
 # Lunch: Moore Foundation’s Diagnostic Excellence Initiative
 
-# Concurrent
+# Concurrent: Evaluating interventions to reduce dx error
+
+Brian mittman at Kaiser dept of rsch and eval. Doug salvador vp and
+cqo at Baystate (soc sci or impl sci, in VA).
+
+- Research on interventions for dx error is important
+- these interventions are very diff fr rx
+
+## intro
+
+QI unfortunately not v rigorous at times. Not always look at existing
+lit; make up our own from scratch. SIDM DxQI seed grant. We review a
+lot of proposals. Lot of variability in analytic plan, etc.
+
+Peterson institute framework: millions into effect of tech on
+hcare[^peter]. We hoped more progress on dx error. We think
+interventions should be robust or adaptable, and feasible (easy impl),
+and widely used (aactual impl). $(R \lor A) \land F \land W$
+
+[^peter]: ICER-PHTI Assessment Framework for Digi Health Tech sept
+2023.
+
+AI for sepsis[^trew] showed mortality benefit, and that sounds like
+traditional intervention, like a vaccine, but it wasn't: two companion
+papers *q.v.* Multiple cycles of iterative learning. When to fire the
+alert? How far in advance? We want a clinical sign.
+
+[^trew]: Adams R et al. & Saria S. Prospective multi site... TREWS... Nature
+medicine.
+
+*Cf.* the WHO Surg checklist[^ssc] which uses a lot of "socio" in the
+sociotechnical realm, and that might look diff at diff hospitals. So,
+*voila,* it worked, and everyone should use WHO checklist? No, we
+argue: using averages is irrelevant. At many sites it didn't work, and
+we deem that a failure.
+
+[^ssc]: NEJM 360:491 (2009)
+
+## complex interventions
+
+Brian: control on left, $\mu_0 = 0, \sigma_0 = 10$ and $\mu_t = 30,
+\sigma_t = 10$. Nobody gets a study with this good of separation.
+Mostly there is overlap, and lots. $\mu$ may be a small difference and
+improvement, but there is so much variability relative to that average
+difference.
+
+Generations of research:
+
+0. most like a classic simple clinical trial
+
+1. is it effective for this subset?
+
+2. is it effective for *this* patient (PCORI and NIH, pragmatic)
+
+3. Is this *program* effective? Answer usually "it depends." Too many
+MCare demo projects. Don Berwick showed that leaders don't care about
+average improvement, but who it worked for, and how can they tailor
+it. Average effec size is like 5% and that works for drugs. If it's a
+non-tailorable drug, give to everyone, and only 5% ppl benefit: that's
+fine. But for complex interventions, they're very costly, and can't
+say "give this to every institution."
+
+Why? Because if you've seen one VA, you've seen one VA. Root cause of
+quality gap is different by site, so you must tailor it. vayr Across
+time too.
+
+## Q and A
+
+Q: what if we don't know baseline of time to dx?
+
+Q: Drugs have phase 1, 2, 3. What's the hierarchy for these? Is SW-CRT
+the top? and then postmarket surveillance? A: Goal should be
+*mechanisms* of effect, not effect size. *Why* does it work, and *for
+whom*. ImpSci: Don't want evidence with capital E. But insights, guidance,
+understanding how the world works. Sometimes, RCT is just not gonna
+happen. True, we need more rigor.
+
+Q: Drug trials have better infra to check ADEs. Does QI lack
+recognition of what balance measures are? A: we can do better. We have
+so much data, 3000 run charts. We would like main effect to explain
+10--20% of variance, but really it's 2% in complex interventions, with
+a bunch of other things that each also explain 1%. Developing insights
+for an ImpSci practitioner takes several failures.
+
+Q: When a team is not engaged, just being told; vs when they really
+care. Don Berwick and the story beneath[^dber].
+
+[^dber]: Berwick DM. The stories beneath. Med Care.
+2007;45(12):1123-1125. doi:10.1097/MLR.0b013e31815d18e6
+
+
+## Innovative rsch approaches
+
+These are called SCI-1, SCI-2, etc. PCORI: Standards for Studies of
+Complex Interventions[^sci].
+
+[^sci]: (among other things:) Proceedings from the 10th Annual
+Conference on the Science of Dissemination and Implementation:
+Arlington, VA, USA. 04--06 December 2017. Implement Sci. 2018;13(Suppl
+4):1--67. Published 2018 Mar 28. doi:10.1186/s13012-018-0728-7
+
+1. fidelity and adaptation. You can rarely follow the manual because
+your place is different[^h1][^h2]. Consider "walk 3 times per week."
+But we don't care if it's literally walking vs swim, etc. Specific
+activity: meh. What is the *underlying goal or core function?* There
+is a "core function/form matrix." Form $\in$ core function $\in$
+need/barrier. Goal is not "standard webinar to MD/RN," but "to
+educate."
+
+[^h1]: hawe P. Complex interventions. BMJ 2004
+
+[^h2]: Hawe P. Lessons from complex interventions. Ann Rev Public
+Health.
+
+2. Theory-based causal model. Unlike drugs, you *need* to know
+mechanism of action. Example: we are working with MPATH-Dx for skin bx
+results. We ask them to use a standardized template, hopefully improve
+outcomes. Using the template depends on a bunch of stuff (know how the
+world works). Pictures of DAGs[^dag]. Lay out the TBCM, think about
+mechanisms of effect. We rate them on skill, ability to motivate
+others. If low, we talk to boss or coach them. QI world uses
+driver[^driv], still saying how world works, what are root causes.
+
+[^dag]: vaccine effectiveness against hospitalization... SARS-CoV-2..
+Ontario.... plos one 2023-03-31.
+
+[^driv]: Bowden. Pedi Qual Saf 2017.
+
+3. Adaptation happens. ImpSci want to understand truth of how world
+works, but also QI don't care about truth (which exact bundle element
+made it decrease). Table of Improvement Sci vs Implementation Sci
+commonalities and differences: $R \cap L$, $R \setminus L$, and $L
+\setminus R$. Have both fields draw the best from the other.
+
+4. Study mechanisms of effect. In the game Mousetrap, often it's like
+watching marble drop and only watch the end. Does the net drop on the
+mouse? Achieving fidelity can suppress tailoring. And anyhow, how do
+you even measure fidelity? If you follow a script and dump too much
+info on the patient, they take nothing away. So deviate, and stop
+halfway thru, and you'll be better off. Several refs about DAGs,
+mediation analysis. Other ways: stat proc control, sim modeling and
+sys dynamics, complexity theory and cplx systems and sys egr.
+
+## QA and additional recs
+
+Know not only main effect but context factors. If a context factor is
+broken (not strong leader, not accept of evidence, no time) then go to
+toolkit and get intervention directed to that.
+
+
+
 
 # Clinical problem solving
 
