@@ -645,9 +645,47 @@ people. That's called ageism."
 
 # WEDNESDAY
 
+# AAMC student presenters.
+
+Celina Yang, Ashley Hope, Juliet McMullin PhD, UC Irvine. Art to
+understand bias & dx.
+
+
+
+
 # AHRQ Diagnostic Safety Centers of Excellence
 
+
+
+
 # Best of the Best
+
+## Implementation of Measure Dx
+
+Andrea Bradford
+
+## A Patient-Reported Measure of Diagnostic Excellence
+
+Kelly Gleason, Johns Hopkins University School of Medicine
+
+## Improving Clinical Reasoning for APPs
+
+David Klimpl, University of Colorado
+
+## Engaging Older Adults in Diagnostic Communication
+
+Alberta Tran, MedStar Health’s Institute for Quality and Safety
+
+## Association, Patient-reported Diagnostic Concerns and Record Reviews
+
+Viralkumar Vaghani
+
+## Machine Learning for Enhanced Electronic Trigger Detection
+
+Andrew Zimolzak, Baylor College of Medicine
+
+
+
 
 # Lunch: Moore Foundation’s Diagnostic Excellence Initiative
 
