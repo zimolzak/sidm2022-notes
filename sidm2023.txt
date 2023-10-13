@@ -835,16 +835,18 @@ care. Don Berwick and the story beneath[^dber].
 [^dber]: Berwick DM. The stories beneath. Med Care.
 2007;45(12):1123-1125. doi:10.1097/MLR.0b013e31815d18e6
 
-
 ## Innovative rsch approaches
 
 These are called SCI-1, SCI-2, etc. PCORI: Standards for Studies of
-Complex Interventions[^sci].
+Complex Interventions[^sci][^pco].
 
 [^sci]: (among other things:) Proceedings from the 10th Annual
 Conference on the Science of Dissemination and Implementation:
 Arlington, VA, USA. 04--06 December 2017. Implement Sci. 2018;13(Suppl
 4):1--67. Published 2018 Mar 28. doi:10.1186/s13012-018-0728-7
+
+[^pco]: PCORI Methodology Standards. pcori.org/ sites/default/files/
+PCORI-Methodology-Standards.pdf
 
 1. fidelity and adaptation. You can rarely follow the manual because
 your place is different[^h1][^h2]. Consider "walk 3 times per week."
@@ -894,12 +896,89 @@ Know not only main effect but context factors. If a context factor is
 broken (not strong leader, not accept of evidence, no time) then go to
 toolkit and get intervention directed to that.
 
+**Important:**
+
+> A lot of times we see changes in upstream or midstream nodes, even
+> if the final node (outcome) doesn't change. Too often, Medicare demo
+> says 'this did not work so try something else,' rather than 'this
+> didn't work so understand why not.'
+
+Margie S: Jim would say "no, it's flexible, we want them to take it
+and do what they want," but then did they really use it?
+
+Leaders need to know that for HPV, physician brief intervention is
+harmful, but nurse or peer is effective. Tailoring is helpful, embrace
+evolution. But do it by a menu, and give evidence and guidance. It's
+not "do whatever feels good."
+
+Evidence capital E:
+: P values and pooled effect size estimates (Cochrane). It doesn't
+work for complex interventions, because the CIs are so wide.
+
+- urine in peritoneum, is it not really portal htn
+
+More: viral hep and cerul and a1at neg. ana asma ama pending. us
+portal no thromb. echo normal with normal ef. Creat down to 2 after fluid.
+Creat worse post para. GI less suspicious for cirrh. cyto neg malign.
+urine eo neg. cr up to 4.4. despite albumin too.
+
+upcr nl, comp nl, ig nl. free kappa 23.9 vs lambda 24.8. immunofix,
+mpo, pr3 pending.
+
+- some obstruction without hydro? prob not
+
+is the low creat fake?
+
 
 
 
 # Clinical problem solving
 
-# Awards
+46 W abd pain, syncope. Florida, western Mass. Acute sv lower abd,
+cramp, just yesterday. Passed out 0100, and 2nd time, bathroom sink.
+Abd CT with = "normal," small free fluid, nl ovaries.
+
+- internal bleeding (cyst RPH)
+- infection
+- doubt heart
+- aorta
+- ischemic bowel
+
+My questions: Is CT normal really normal? LMP? surgeries? meds? is it
+not really sync? if yes what kind (volume, vascular, cardiac arrhy).
+
+**Next part:** Came back to Mass, to ER, abd pain, dizzy and lightheaded.
+She said, "I passed out because so much pain." No systemic, no GU, no
+neurol sx. PMH: urachus and part bladder resec 2 yr ago, gerd htn asth
+ddd, spinal nerve stim, fibromyalg, osa, depr anx ocd. Hydert gast
+bypass, hernia repair with mesh, surveillance cysto Q6mo. Rx albut
+baclofen buprop ssri ppi advair gabapent traz.
+
+My Q: why hysterectomy, are ovaries intact, menop sx?
+
+- endomet
+
+Discussed: arcuate ligament, vzv, angioedema, porphyria, other mast
+cell, PUD. Obstruction "should" show.
+
+**Exam:** Abd soft, tend lower abd, bp 146 hr 83, T 37. CT noncon: "new
+large vol ascites vs many months ago, nodular liver." wbc 4 hgb 13.5,
+plt 253. BUN 36 cr 3.7.
+
+- pyelo probably not wbc or fever
+- bladder rupture
+
+Me: they call it ascites but is it?
+
+- hepatic or portal vein thromb
+
+me: tap, ua, urine protein, urine microsc, fena. Shows: sg1.041, 1+
+alb, fena low. RUS normal kidney, debris in bladder. liver us yes
+nodular. US para = 3.5L clear/straw. 44 polys, low alb 0.9 vs serum
+3.8.
+
+
+
 
 # Local words (ignore)
 
