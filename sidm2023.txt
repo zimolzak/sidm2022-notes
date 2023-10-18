@@ -747,13 +747,14 @@ Andrew Zimolzak, Baylor College of Medicine
 
 # Concurrent: Evaluating interventions to reduce dx error
 
-Brian mittman at Kaiser dept of rsch and eval. Doug salvador vp and
-cqo at Baystate (soc sci or impl sci, in VA).
+Brian Mittman at Kaiser dept of rsch and eval.
+
+Doug salvador vp and CQO at Baystate (soc sci or impl sci, in VA).
 
 - Research on interventions for dx error is important
 - these interventions are very diff fr rx
 
-## intro
+## Intro
 
 QI unfortunately not v rigorous at times. Not always look at existing
 lit; make up our own from scratch. SIDM DxQI seed grant. We review a
@@ -915,19 +916,6 @@ Evidence capital E:
 : P values and pooled effect size estimates (Cochrane). It doesn't
 work for complex interventions, because the CIs are so wide.
 
-- urine in peritoneum, is it not really portal htn
-
-More: viral hep and cerul and a1at neg. ana asma ama pending. us
-portal no thromb. echo normal with normal ef. Creat down to 2 after fluid.
-Creat worse post para. GI less suspicious for cirrh. cyto neg malign.
-urine eo neg. cr up to 4.4. despite albumin too.
-
-upcr nl, comp nl, ig nl. free kappa 23.9 vs lambda 24.8. immunofix,
-mpo, pr3 pending.
-
-- some obstruction without hydro? prob not
-
-is the low creat fake?
 
 
 
@@ -965,7 +953,7 @@ cell, PUD. Obstruction "should" show.
 large vol ascites vs many months ago, nodular liver." wbc 4 hgb 13.5,
 plt 253. BUN 36 cr 3.7.
 
-- pyelo probably not wbc or fever
+- pyelo: probably not (because no wbc or fever)
 - bladder rupture
 
 Me: they call it ascites but is it?
@@ -976,6 +964,20 @@ me: tap, ua, urine protein, urine microsc, fena. Shows: sg1.041, 1+
 alb, fena low. RUS normal kidney, debris in bladder. liver us yes
 nodular. US para = 3.5L clear/straw. 44 polys, low alb 0.9 vs serum
 3.8.
+
+- urine in peritoneum, is it not really portal htn
+
+More: viral hep and cerul and a1at neg. ana asma ama pending. us
+portal no thromb. echo normal with normal ef. Creat down to 2 after fluid.
+Creat worse post para. GI less suspicious for cirrh. cyto neg malign.
+urine eo neg. cr up to 4.4. despite albumin too.
+
+upcr nl, comp nl, ig nl. free kappa 23.9 vs lambda 24.8. immunofix,
+mpo, pr3 pending.
+
+- some obstruction without hydro? prob not
+
+is the low(er) creat data point fake?
 
 
 
